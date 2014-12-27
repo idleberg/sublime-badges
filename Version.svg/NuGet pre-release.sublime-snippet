@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![NuGet Pre Release](https://img.shields.io/nuget/vpre/${1:package}.svg${2:?style=flat${3:-square}})]($4)
+[![NuGet Pre Release](https://img.shields.io/nuget/vpre/${1:package}.svg${2:?style=flat${3:-square}})](${4:http://www.nuget.org/packages/${1:package}})
 ]]></content>
   <tabTrigger>svg-nuget-ver-pre</tabTrigger>
   <scope>text.html.markdown</scope>

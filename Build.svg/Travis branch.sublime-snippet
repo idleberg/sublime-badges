@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Travis branch](https://img.shields.io/travis/${1:user}/${2:repository}/${3:branch}.svg${4:?style=flat${5:-square}})]($6)
+[![Travis branch](https://img.shields.io/travis/${1:user}/${2:repository}/${3:branch}.svg${4:?style=flat${5:-square}})](${6:https://travis-ci.org/${1:user}/${2:repository})
 ]]></content>
   <tabTrigger>svg-travis-branch</tabTrigger>
   <scope>text.html.markdown</scope>

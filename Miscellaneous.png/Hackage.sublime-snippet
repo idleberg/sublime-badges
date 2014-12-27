@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Hackage-Deps](https://img.shields.io/hackage-deps/v/${1:package}.png${2:?style=flat${3:-square}})]($4)
+[![Hackage-Deps](https://img.shields.io/hackage-deps/v/${1:package}.png${2:?style=flat${3:-square}})](${4:https://hackage.haskell.org/package/${1:package}})
 ]]></content>
   <tabTrigger>png-hackage-deps</tabTrigger>
   <scope>text.html.markdown</scope>

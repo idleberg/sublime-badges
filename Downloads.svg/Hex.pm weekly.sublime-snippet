@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Hex.pm](https://img.shields.io/hexpm/dw/${1:package}.svg${2:?style=flat${3:-square}})]($4)
+[![Hex.pm](https://img.shields.io/hexpm/dw/${1:package}.svg${2:?style=flat${3:-square}})](${4:https://hex.pm/packages/${1:package}})
 ]]></content>
   <tabTrigger>svg-hex-dl-week</tabTrigger>
   <scope>text.html.markdown</scope>

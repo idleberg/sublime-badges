@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Wordpress](https://img.shields.io/wordpress/plugin/dt/${1:plugin}.png${2:?style=flat${3:-square}})]($4)
+[![Wordpress](https://img.shields.io/wordpress/plugin/dt/${1:plugin}.png${2:?style=flat${3:-square}})](${4:https://wordpress.org/plugins/${1:plugin}})
 ]]></content>
   <tabTrigger>png-wordpress-dl</tabTrigger>
   <scope>text.html.markdown</scope>

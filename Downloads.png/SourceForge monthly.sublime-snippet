@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![SourceForge](https://img.shields.io/sourceforge/dm/${1:project}.png${2:?style=flat${3:-square}})]($4)
+[![SourceForge](https://img.shields.io/sourceforge/dm/${1:project}.png${2:?style=flat${3:-square}})](${4:https://sourceforge.net/${1:project}})
 ]]></content>
   <tabTrigger>png-sourceforge-dl-month</tabTrigger>
   <scope>text.html.markdown</scope>

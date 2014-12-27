@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Hackage](https://img.shields.io/hackage/v/${1:package}.svg${2:?style=flat${3:-square}})]($4)
+]]></content>
+  <tabTrigger>svg-hackage-ver</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

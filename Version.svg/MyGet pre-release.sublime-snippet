@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![MyGet Pre Release](https://img.shields.io/myget/${1:user}/vpre/${2:package.svg${3:?style=flat${4:-square}}})]($5)
+]]></content>
+  <tabTrigger>svg-myget-ver-pre</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

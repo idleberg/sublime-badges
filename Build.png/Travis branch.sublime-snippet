@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Travis branch](https://img.shields.io/travis/${1:user}/${2:repository}/${3:branch}.png${4:?style=flat${5:-square}})]($6)
+]]></content>
+  <tabTrigger>png-travis-branch</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

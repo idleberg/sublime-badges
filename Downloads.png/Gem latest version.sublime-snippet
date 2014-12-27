@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Gem](https://img.shields.io/gem/dv/${1:gem}/${2:version}.png${3:?style=flat${4:-square}})]($5)
+]]></content>
+  <tabTrigger>png-gem-dl-ver</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

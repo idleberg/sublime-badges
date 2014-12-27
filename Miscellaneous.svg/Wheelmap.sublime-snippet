@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Wheelmap](https://img.shields.io/wheelmap/a/${1:id}.svg${2:?style=flat${3:-square}})]($4)
+]]></content>
+  <tabTrigger>svg-wheelmap</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

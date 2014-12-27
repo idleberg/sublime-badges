@@ -3,6 +3,6 @@
   <content><![CDATA[
 [![Chocolatey](https://img.shields.io/chocolatey/dt/${1:package}.svg${2:?style=flat${3:-square}})](${4:https://chocolatey.org/packages/${1:package}})
 ]]></content>
-  <tabTrigger>svg-apm-dl</tabTrigger>
+  <tabTrigger>svg-chocolatey-dl</tabTrigger>
   <scope>text.html.markdown</scope>
 </snippet>

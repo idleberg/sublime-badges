@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Packagist](https://img.shields.io/packagist/dm/${1:user}/${2:package}.svg${3:?style=flat${4:-square}})]($5)
+[![Packagist](https://img.shields.io/packagist/dm/${1:user}/${2:package}.svg${3:?style=flat${4:-square}})](${5:https://packagist.org/packages/${1:user}/${2:package}})
 ]]></content>
   <tabTrigger>svg-packagist-dl-month</tabTrigger>
   <scope>text.html.markdown</scope>

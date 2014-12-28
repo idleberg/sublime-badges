@@ -1,5 +1,8 @@
 # Shields.io snippets for Sublime Text
 
+[![GitHub tag](https://img.shields.io/github/tag/idleberg/sublime-shields.io.svg?style=flat-square)](https://github.com/idleberg/sublime-shields.io/tags)
+[![Travis](https://img.shields.io/travis/idleberg/sublime-shields.io.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-shields.io)
+
 Easily insert [Shields.io](http://shields.io/) badges into Markdown documents.
 
 ## Installation

@@ -1,9 +1,9 @@
-# Shields.io snippets for Sublime Text
+# Badges for Sublime Text
 
-[![GitHub tag](https://img.shields.io/github/tag/idleberg/sublime-shields.io.svg?style=flat-square)](https://github.com/idleberg/sublime-shields.io/tags)
-[![Travis](https://img.shields.io/travis/idleberg/sublime-shields.io.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-shields.io)
+[![GitHub tag](https://img.badges/github/tag/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/tags)
+[![Travis](https://img.badges/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
 
-Easily insert [Shields.io](http://shields.io/) badges into Markdown documents.
+Easily insert [badges](http://badges/) badges into Markdown documents.
 
 ## Installation
 
@@ -11,13 +11,13 @@ Easily insert [Shields.io](http://shields.io/) badges into Markdown documents.
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
-3. Select *Shields.io Badges* and press `Enter`
+3. Select *Badges* and press `Enter`
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
 ### Manual installation
 
-1. Download the files using the GitHub [.zip](https://github.com/idleberg/sublime-shields.io/archive/master.zip) download option
+1. Download the files using the GitHub [.zip](https://github.com/idleberg/sublime-badges/archive/master.zip) download option
 2. Unzip the files to your Sublime Text `Packages` directory
 
 ## Usage
@@ -46,4 +46,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-shields.io) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-badges) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`

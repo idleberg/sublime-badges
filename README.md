@@ -1,7 +1,7 @@
 # Badges for Sublime Text
 
-[![GitHub tag](https://img.badges/github/tag/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/tags)
-[![Travis](https://img.badges/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
+[![GitHub tag](https://img.shields.io/github/tag/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/tags)
+[![Travis](https://img.shields.io/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
 
 Easily insert [badges](http://badges/) badges into Markdown documents.
 

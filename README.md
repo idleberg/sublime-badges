@@ -1,7 +1,7 @@
 # Badges for Sublime Text
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/release/idl/sublime-badges.svg?style=flat-square)](https://github.com/idl/sublime-badges/releases)
+[![GitHub release](https://img.shields.io/github/release/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
 
 Easily insert [badges](http://badges/) badges into Markdown documents.

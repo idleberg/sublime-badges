@@ -32,7 +32,7 @@ Examples:
 * `svg-travis` - build status on Travis
 * `svg-travis-branch` - build status on Travis for a specific branch
 * `svg-npm-ver` - the version of a Node package
-* `svg-gpl3` - GNU General Public License, Version 3
+* `svg-gpl3` - link to GNU General Public License, Version 3
 
 # License
 

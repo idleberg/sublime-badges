@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-${1:orange}.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-${1:orange}.svg${2:?style=flat${3:-square}})](http://creativecommons.org/licenses/by-sa/4.0/)
 ]]></content>
   <tabTrigger>svg-cc-by-sa</tabTrigger>
   <scope>text.html.markdown</scope>

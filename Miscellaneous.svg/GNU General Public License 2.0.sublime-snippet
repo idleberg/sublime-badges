@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![GNU General Public License](https://img.shields.io/badge/license-GPL%20v2-${1:orange}.svg)](http://www.gnu.org/licenses/gpl-2.0.html)
+]]></content>
+  <tabTrigger>svg-gpl2</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

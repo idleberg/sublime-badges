@@ -1,7 +1,7 @@
 {
   "name": "sublimetext-gruntfile.js",
   "description": "Lint tasks for Sublime Text packages",
-  "version" : "0.0.3",
+  "version" : "0.0.4",
   "author" : "Jan T. Sott",
   "license" : "MIT",
   "private": true,
@@ -17,7 +17,7 @@
     "grunt-cli":           "^0.1.13",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-jsonlint":      "^1.0.4",
-    "grunt-pylint":        "^1.0.0",
+    "grunt-pylint":        "^1.2.0",
     "grunt-xml-validator": "^1.1.1"
   },
   "files": [

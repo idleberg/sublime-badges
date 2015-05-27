@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Apache License](https://img.shields.io/badge/license-Apache%202.0-${1:orange}.png${2:?style=flat${3:-square}})](http://www.apache.org/licenses/LICENSE-2.0)
+]]></content>
+  <tabTrigger>png-apache</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

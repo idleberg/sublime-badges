@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![apm](https://img.shields.io/apm/dm/${1:package}.png${2:?style=flat${3:-square}})](${4:https://atom.io/${5:package}/${1:package}})
+[![apm](https://img.shields.io/apm/dm/${1:package}.png${2:?style=flat${3:-square}})](${4:https://atom.io/${5:packages}/${1:package}})
 ]]></content>
   <tabTrigger>svg-apm-dl</tabTrigger>
   <scope>text.html.markdown</scope>

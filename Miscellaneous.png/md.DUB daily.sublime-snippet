@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![DUB](https://img.shields.io/dub/l/${1:project}.png${2:?style=flat${3:-square}})]($4)
+]]></content>
+  <tabTrigger>png-dub-license</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

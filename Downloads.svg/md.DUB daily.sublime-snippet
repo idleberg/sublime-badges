@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![DUB](https://img.shields.io/dub/dd/${1:project}${2:/${3:latest}}.svg${3:?style=flat${4:-square}})]($5)
+]]></content>
+  <tabTrigger>svg-dub-dl-day</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

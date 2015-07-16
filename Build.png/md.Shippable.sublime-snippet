@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Shippable](https://img.shields.io/shippable/${1:hash}.png${2:?style=flat${3:-square}})]($4)
+]]></content>
+  <tabTrigger>png-shippable</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

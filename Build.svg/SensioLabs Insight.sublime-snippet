@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/${1:id}.svg${2:?style=flat${3:-square}})]($4)
+[![SensioLabs](https://img.shields.io/sensiolabs/i/${1:id}.svg${2:?style=flat${3:-square}})]($4)
 ]]></content>
   <tabTrigger>svg-sensiolab</tabTrigger>
   <scope>text.html.markdown</scope>

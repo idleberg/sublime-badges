@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![GitHub Releases](https://img.shields.io/github/downloads/${1:user}/${2:repository}/latest/${3:asset}.svg${4:?style=flat${5:-square}})](${6:https://github.com/${1:user}/${2:repository}})
+[![GitHub](https://img.shields.io/github/downloads/${1:user}/${2:repository}/latest/${3:asset}.svg${4:?style=flat${5:-square}})](${6:https://github.com/${1:user}/${2:repository}})
 ]]></content>
   <tabTrigger>svg-github-dl-asset</tabTrigger>
   <scope>text.html.markdown</scope>

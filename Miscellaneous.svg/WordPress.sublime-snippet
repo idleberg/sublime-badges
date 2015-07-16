@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![WordPress rating](https://img.shields.io/wordpress/plugin/r/${1:plugin}.svg${2:?style=flat${3:-square}})]($4)
+[![WordPress](https://img.shields.io/wordpress/plugin/r/${1:plugin}.svg${2:?style=flat${3:-square}})]($4)
 ]]></content>
   <tabTrigger>svg-wordpress-rating</tabTrigger>
   <scope>text.html.markdown</scope>

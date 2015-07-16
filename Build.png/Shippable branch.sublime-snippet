@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Shippable branch](https://img.shields.io/shippable/${1:hash}/${2:master}.png${3:?style=flat${4:-square}})]($5)
+[![Shippable](https://img.shields.io/shippable/${1:hash}/${2:master}.png${3:?style=flat${4:-square}})]($5)
 ]]></content>
   <tabTrigger>png-shippable-branch</tabTrigger>
   <scope>text.html.markdown</scope>

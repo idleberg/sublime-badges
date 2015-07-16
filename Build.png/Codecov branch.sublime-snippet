@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Codecov branch](https://img.shields.io/codecov/c/github/${1:user}/${2:repository}/${3:master}.png${4:?style=flat${5:-square}})]($6)
+[![Codecov](https://img.shields.io/codecov/c/github/${1:user}/${2:repository}/${3:master}.png${4:?style=flat${5:-square}})]($6)
 ]]></content>
   <tabTrigger>png-codecov-branch</tabTrigger>
   <scope>text.html.markdown</scope>

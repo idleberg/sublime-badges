@@ -1,8 +1,8 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![TeamCity (full build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/e/${1:buildtype}.svg${2:?style=flat${3:-square}})]($4)
+[![TeamCity](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/e/${1:buildtype}.svg${2:?style=flat${3:-square}})]($4)
 ]]></content>
-  <tabTrigger>svg-teamcity-simple-build-status</tabTrigger>
+  <tabTrigger>svg-teamcity-full-build-status</tabTrigger>
   <scope>text.html.markdown</scope>
 </snippet>

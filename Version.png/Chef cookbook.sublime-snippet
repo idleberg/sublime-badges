@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Chef cookbook](https://img.shields.io/cookbook/v/${1:cookbook}.png${2:?style=flat${3:-square}})](${4:https://supermarket.chef.io/cookbooks/${1:cookbook}})
+[![Chef](https://img.shields.io/cookbook/v/${1:cookbook}.png${2:?style=flat${3:-square}})](${4:https://supermarket.chef.io/cookbooks/${1:cookbook}})
 ]]></content>
   <tabTrigger>png-chef-ver</tabTrigger>
   <scope>text.html.markdown</scope>

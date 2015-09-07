@@ -28,7 +28,7 @@ All snippets start with the prefix `svg-` and is followed by the service you're 
 Examples:
 
 * `svg-pypi-dl-day` - daily downloads on PyPI
-* `svg-pypi-dl-month` - monthy downloads on PyPI
+* `svg-pypi-dl-month` - monthly downloads on PyPI
 * `svg-travis` - build status on Travis
 * `svg-travis-branch` - build status on Travis for a specific branch
 * `svg-npm-ver` - the version of a Node package

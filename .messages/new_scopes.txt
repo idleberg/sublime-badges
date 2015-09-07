@@ -1,0 +1,2 @@
+As of version 2.0.0, you can use these snippets on HTML, reStructuredText and
+Textile files in addition to Markdown.

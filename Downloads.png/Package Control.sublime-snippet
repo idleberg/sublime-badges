@@ -3,6 +3,6 @@
   <content><![CDATA[
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/${1:package}.png)](${2:https://packagecontrol.io/packages/${1:package}})
 ]]></content>
-  <tabTrigger>png-package-control</tabTrigger>
+  <tabTrigger>png-package-control-dl</tabTrigger>
   <scope>text.html.markdown</scope>
 </snippet>

@@ -3,6 +3,6 @@
   <content><![CDATA[
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/${1:package}.svg)](${2:https://packagecontrol.io/packages/${1:package}})
 ]]></content>
-  <tabTrigger>svg-package-control</tabTrigger>
+  <tabTrigger>svg-package-control-dl</tabTrigger>
   <scope>text.html.markdown</scope>
 </snippet>

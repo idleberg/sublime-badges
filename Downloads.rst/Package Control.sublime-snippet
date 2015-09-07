@@ -1,8 +1,8 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-.. image:: https://packagecontrol.herokuapp.com/downloads/${1:package}.svg
-   :target: ${2:https://packagecontrol.io/packages/${1:package}}
+.. image:: https://packagecontrol.herokuapp.com/downloads/${1:package}.svg${2:?style=flat${3:-square}}
+   :target: ${4:https://packagecontrol.io/packages/${1:package}}
 ]]></content>
   <tabTrigger>svg-package-control-dl</tabTrigger>
   <scope>text.restructuredtext</scope>

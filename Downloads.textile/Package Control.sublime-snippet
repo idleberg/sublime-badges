@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-"!https://packagecontrol.herokuapp.com/downloads/${1:package}.svg(Package Control)!":${2:https://packagecontrol.io/packages/${1:package}}
+"!https://packagecontrol.herokuapp.com/downloads/${1:package}.svg${2:?style=flat${3:-square}}(Package Control)!":${4:https://packagecontrol.io/packages/${1:package}}
 ]]></content>
   <tabTrigger>svg-package-control-dl</tabTrigger>
   <scope>text.html.textile</scope>

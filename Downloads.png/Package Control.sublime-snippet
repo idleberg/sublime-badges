@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/${1:package}.png)](${2:hhttps://packagecontrol.io/packages/${1:package}})
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/${1:package}.png)](${2:https://packagecontrol.io/packages/${1:package}})
 ]]></content>
   <tabTrigger>png-package-control</tabTrigger>
   <scope>text.html.markdown</scope>

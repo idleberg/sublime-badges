@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![VersionEye](https://img.shields.io/versioneye/d/${1:language}/${2:library}.png${3:?style=flat${4:-square}})](${5:https://www.versioneye.com/${1:language}/${2:library}})
-]]></content>
-  <tabTrigger>png-versioneye-deps</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

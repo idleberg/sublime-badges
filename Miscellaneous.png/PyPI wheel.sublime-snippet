@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![PyPI](https://img.shields.io/pypi/wheel/${1:package}.png${2:?style=flat${3:-square}})](${4:https://pypi.python.org/pypi/${1:package}})
-]]></content>
-  <tabTrigger>png-pypi-wheel</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

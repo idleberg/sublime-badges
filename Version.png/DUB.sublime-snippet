@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![DUB](https://img.shields.io/dub/v/${1:project}.png${3:?style=flat${4:-square}})]($5)
-]]></content>
-  <tabTrigger>png-dub-ver</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

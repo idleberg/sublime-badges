@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Gemnasium](https://img.shields.io/gemnasium/${1:user}/${2:gem}.png${3:?style=flat${4:-square}})](${5:https://gemnasium.com/${1:user}/${2:gem}})
-]]></content>
-  <tabTrigger>png-gemnasium-deps</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Crates.io](https://img.shields.io/crates/dv/${1:project}.png${3:?style=flat${4:-square}})]($5)
-]]></content>
-  <tabTrigger>png-crates-dl-latest</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

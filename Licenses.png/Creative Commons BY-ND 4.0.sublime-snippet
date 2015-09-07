@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Creative Commons](https://img.shields.io/badge/license-CC--BY--ND%204.0-${1:orange}.png${2:?style=flat${3:-square}})](http://creativecommons.org/licenses/by-nd/4.0/)
-]]></content>
-  <tabTrigger>png-cc-by-nd</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

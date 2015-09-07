@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
 
-Easily insert [Shields.io](http://shields.io/) badges into Markdown documents.
+Easily insert [Shields.io](http://shields.io/) badges into HTML, Markdown, reStructuredText and Textile documents.
 
 ## Installation
 
@@ -23,7 +23,7 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 
 ## Usage
 
-All snippets start with the prefix `svg-` and `png-`, depending on which image format you want to use. The prefix is followed by the service you're adressing, with some services offering multiple choices.
+All snippets start with the prefix `svg-` and is followed by the service you're adressing, with some services offering multiple choices.
 
 Examples:
 

@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Pub](https://img.shields.io/pub/v/${1:package}.png${2:?style=flat${3:-square}})](${4:https://pub.dartlang.org/${1:package}})
-]]></content>
-  <tabTrigger>png-pub-ver</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

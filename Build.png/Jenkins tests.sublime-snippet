@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Jenkins](https://img.shields.io/jenkins/t/${1:user}/${2:project}.png${3:?style=flat${4:-square}})]($5)
-]]></content>
-  <tabTrigger>png-jenkins-tests</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

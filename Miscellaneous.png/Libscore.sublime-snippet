@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Libscore](https://img.shields.io/libscore/s/${1:project}.png${2:?style=flat${3:-square}})]($4)
-]]></content>
-  <tabTrigger>png-libscore</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

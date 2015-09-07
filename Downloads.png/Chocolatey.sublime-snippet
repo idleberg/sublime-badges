@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Chocolatey](https://img.shields.io/chocolatey/dt/${1:package}.png${2:?style=flat${3:-square}})](${4:https://chocolatey.org/packages/${1:package}})
-]]></content>
-  <tabTrigger>png-chocolatey-dl</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

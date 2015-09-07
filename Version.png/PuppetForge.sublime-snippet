@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![PuppetForge](https://img.shields.io/puppetforge/v/${1:user}/${2:module}.png${3:?style=flat${4:-square}})](${5:https://forge.puppetlabs.com/${1:user}/${2:module}})
-]]></content>
-  <tabTrigger>png-puppetforge-ver</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

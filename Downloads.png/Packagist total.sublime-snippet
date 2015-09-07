@@ -1,8 +1,0 @@
-<!-- http://github.com/idleberg/sublime-tinkertools -->
-<snippet>
-  <content><![CDATA[
-[![Packagist](https://img.shields.io/packagist/dt/${1:user}/${2:package}.png${3:?style=flat${4:-square}})](${5:https://packagist.org/packages/${1:user}/${2:package}})
-]]></content>
-  <tabTrigger>png-packagist-dl-total</tabTrigger>
-  <scope>text.html.markdown</scope>
-</snippet>

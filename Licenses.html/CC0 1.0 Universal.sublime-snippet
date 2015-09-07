@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/license-CC0%201.0-${1:orange}.svg${2:?style=flat${3:-square}}" title="Creative Commons" alt="Creative Commons" /></a>
+]]></content>
+  <tabTrigger>svg-cc0</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

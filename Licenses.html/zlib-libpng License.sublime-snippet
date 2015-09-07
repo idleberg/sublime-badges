@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="http://opensource.org/licenses/Zlib"><img src="https://img.shields.io/badge/license-zlib%2Flibpng-${1:orange}.svg${2:?style=flat${3:-square}}" title="zlib/libpng" alt="zlib/libpng" /></a>
+]]></content>
+  <tabTrigger>svg-zlib-libpng</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

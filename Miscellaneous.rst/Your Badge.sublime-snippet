@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/badge/${2:${1:subject}}-${3:status}-${4:color}.svg${5:?style=flat${6:-square}}
+   :target: $7
+]]></content>
+  <tabTrigger>svg-custom</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

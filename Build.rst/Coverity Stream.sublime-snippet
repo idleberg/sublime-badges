@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/coverity/ondemand/streams/${1:STREAM}.svg${2:?style=flat${3:-square}}
+   :target: $4
+]]></content>
+  <tabTrigger>svg-coverity-stream</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

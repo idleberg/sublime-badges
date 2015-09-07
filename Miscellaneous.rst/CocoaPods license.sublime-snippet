@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/cocoapods/l/${1:pod}.svg${2:?style=flat${3:-square}}
+   :target: $4
+]]></content>
+  <tabTrigger>svg-cocoapods-license</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

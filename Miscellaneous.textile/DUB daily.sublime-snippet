@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/dub/l/${1:project}.svg${2:?style=flat${3:-square}}(DUB)!":$4
+]]></content>
+  <tabTrigger>svg-dub-license</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

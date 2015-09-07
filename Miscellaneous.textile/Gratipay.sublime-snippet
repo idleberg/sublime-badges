@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/gratipay/${1:user}.svg${2:?style=flat${3:-square}}(Gratipay)!":${4:https://gratipay.com/${1:user}}
+]]></content>
+  <tabTrigger>svg-gratipay</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

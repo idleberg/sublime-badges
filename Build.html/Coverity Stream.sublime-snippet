@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$4"><img src="https://img.shields.io/coverity/ondemand/streams/${1:STREAM}.svg${2:?style=flat${3:-square}}" title="Coverity" alt="Coverity" /></a>
+]]></content>
+  <tabTrigger>svg-coverity-stream</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

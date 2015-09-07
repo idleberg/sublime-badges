@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/codecov/c/github/${1:user}/${2:repository}/${3:master}.svg${4:?style=flat${5:-square}}
+   :target: $6
+]]></content>
+  <tabTrigger>svg-codecov-branch</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

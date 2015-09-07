@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="${4:https://hex.pm/packages/${1:package}}"><img src="https://img.shields.io/hexpm/v/${1:package}.svg${2:?style=flat${3:-square}}" title="Hex.pm" alt="Hex.pm" /></a>
+]]></content>
+  <tabTrigger>svg-hex-ver</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

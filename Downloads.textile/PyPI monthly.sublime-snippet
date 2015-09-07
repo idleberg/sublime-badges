@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/pypi/dm/${1:package}.svg${2:?style=flat${3:-square}}(PyPI)!":${4:https://pypi.python.org/pypi/${1:package}}
+]]></content>
+  <tabTrigger>svg-pypi-dl-month</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

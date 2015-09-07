@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/gem/u/${1:gem}.svg${2:?style=flat${3:-square}}(Gem)!":$4
+]]></content>
+  <tabTrigger>svg-gem-user</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

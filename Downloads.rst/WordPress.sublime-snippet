@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/wordpress/plugin/dt/${1:plugin}.svg${2:?style=flat${3:-square}}
+   :target: ${4:https://wordpress.org/plugins/${1:plugin}}
+]]></content>
+  <tabTrigger>svg-wordpress-dl</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

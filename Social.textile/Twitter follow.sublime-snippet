@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/badge/https://img.shields.io/badge/Follow-%40${1:username}-${2:blue}.svg${3:&style=flat${4:-square}}(Twitter)!":http://twitter.com/${1:username}
+]]></content>
+  <tabTrigger>svg-twitter-follow</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

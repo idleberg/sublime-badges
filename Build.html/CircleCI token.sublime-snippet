@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$7"><img src="https://img.shields.io/circleci/token/${1:YOURTOKEN}/project/${2:user}/${3:repository}/${4:master}.svg${5:?style=flat${6:-square}}" title="CircleCI" alt="CircleCI" /></a>
+]]></content>
+  <tabTrigger>svg-circleci-token</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

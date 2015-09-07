@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/nuget/v/${1:package}.svg${2:?style=flat${3:-square}}(NuGet)!":${4:http://www.nuget.org/packages/${1:package}}
+]]></content>
+  <tabTrigger>svg-nuget-ver</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

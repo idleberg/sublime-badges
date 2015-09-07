@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$4"><img src="https://img.shields.io/talk/t/${1:id}.svg${2:?style=flat${3:-square}}" title="Talk.io" alt="Talk.io" /></a>
+]]></content>
+  <tabTrigger>svg-talk</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

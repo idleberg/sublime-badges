@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$5"><img src="https://img.shields.io/codeclimate/coverage/github/${1:user}/${2:repository}.svg${3:?style=flat${4:-square}}" title="Code Climate" alt="Code Climate" /></a>
+]]></content>
+  <tabTrigger>svg-codeclimate-coverage</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

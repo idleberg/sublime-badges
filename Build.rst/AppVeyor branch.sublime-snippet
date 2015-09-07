@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/appveyor/ci/${1:user}/${2:repository}/${3:branch}.svg${4:?style=flat${5:-square}}
+   :target: $6
+]]></content>
+  <tabTrigger>svg-appveyor-branch</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

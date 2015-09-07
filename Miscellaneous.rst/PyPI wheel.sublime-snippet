@@ -1,0 +1,10 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+
+.. image:: https://img.shields.io/pypi/wheel/${1:package}.svg${2:?style=flat${3:-square}}
+   :target: ${4:https://pypi.python.org/pypi/${1:package}}
+]]></content>
+  <tabTrigger>svg-pypi-wheel</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

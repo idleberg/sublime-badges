@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="https://www.mozilla.org/MPL/"><img src="https://img.shields.io/badge/license-MPL-${1:orange}.svg${2:?style=flat${3:-square}}" title="Mozilla Public License" alt="Mozilla Public License" /></a>
+]]></content>
+  <tabTrigger>svg-mpl</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

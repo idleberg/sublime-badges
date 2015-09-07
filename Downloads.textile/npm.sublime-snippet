@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/npm/dm/${1:package}.svg${2:?style=flat${3:-square}}(npm)!":${4:https://www.npmjs.org/package/${1:package}}
+]]></content>
+  <tabTrigger>svg-npm-dl</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

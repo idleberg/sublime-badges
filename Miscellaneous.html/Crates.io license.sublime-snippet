@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$5"><img src="https://img.shields.io/crates/l/${1:project}.svg${3:?style=flat${4:-square}}" title="Crates.io" alt="Crates.io" /></a>
+]]></content>
+  <tabTrigger>svg-crates-license</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/chocolatey/dt/${1:package}.svg${2:?style=flat${3:-square}}
+   :target: ${4:https://chocolatey.org/packages/${1:package}}
+]]></content>
+  <tabTrigger>svg-chocolatey-dl</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

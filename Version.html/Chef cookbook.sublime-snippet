@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="${4:https://supermarket.chef.io/cookbooks/${1:cookbook}}"><img src="https://img.shields.io/cookbook/v/${1:cookbook}.svg${2:?style=flat${3:-square}}" title="Chef" alt="Chef" /></a>
+]]></content>
+  <tabTrigger>svg-chef-ver</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

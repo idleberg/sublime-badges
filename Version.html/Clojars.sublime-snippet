@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$5"><img src="https://img.shields.io/clojars/v/${1:project}.svg${3:?style=flat${4:-square}}" title="Clojars" alt="Clojars" /></a>
+]]></content>
+  <tabTrigger>svg-clojars-ver</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

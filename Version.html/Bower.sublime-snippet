@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$4"><img src="https://img.shields.io/bower/v/${1:package}.svg${2:?style=flat${3:-square}}" title="Bower" alt="Bower" /></a>
+]]></content>
+  <tabTrigger>svg-bower-ver</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

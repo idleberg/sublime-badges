@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/puppetforge/f/${1:user}/${2:project}.svg${3:?style=flat${4:-square}}
+   :target: ${5:https://forge.puppetforge.net/${1:user}/${2:project}}
+]]></content>
+  <tabTrigger>svg-puppetforge-score</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

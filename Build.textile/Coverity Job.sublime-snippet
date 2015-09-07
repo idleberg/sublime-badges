@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/coverity/ondemand/job/${1:JOB}.svg${2:?style=flat${3:-square}}(Coverity)!":$4
+]]></content>
+  <tabTrigger>svg-coverity-job</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

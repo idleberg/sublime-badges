@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="${5:https://github.com/${1:user}/${2:repository}}"><img src="https://img.shields.io/github/downloads/${1:user}/${2:repository}/latest/total.svg${3:?style=flat${4:-square}}" title="GitHub" alt="GitHub" /></a>
+]]></content>
+  <tabTrigger>svg-github-dl</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

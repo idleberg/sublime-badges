@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="${4:https://rubygems.org/gems/${1:gem}}"><img src="https://img.shields.io/gem/dt/${1:gem}.svg${2:?style=flat${3:-square}}" title="Gem" alt="Gem" /></a>
+]]></content>
+  <tabTrigger>svg-gem-dl-total</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

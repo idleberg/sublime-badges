@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/badge/license-OFL%201.1-${1:orange}.svg${2:?style=flat${3:-square}}(SIL Open Font License)!":http://scripts.sil.org/OFL
+]]></content>
+  <tabTrigger>svg-ofl11</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

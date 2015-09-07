@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="${4:https://atom.io/${5:packages}/${1:package}}"><img src="https://img.shields.io/apm/v/${1:package}.svg${2:?style=flat${3:-square}}" title="apm" alt="apm" /></a>
+]]></content>
+  <tabTrigger>svg-apm-ver</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

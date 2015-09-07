@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<a href="$6"><img src="https://img.shields.io/coveralls/${1:user}/${2:repository}/${3:branch}.svg${4:?style=flat${5:-square}}" title="Coveralls" alt="Coveralls" /></a>
+]]></content>
+  <tabTrigger>svg-coveralls-branch</tabTrigger>
+  <scope>text.html -text.html.markdown</scope>
+</snippet>

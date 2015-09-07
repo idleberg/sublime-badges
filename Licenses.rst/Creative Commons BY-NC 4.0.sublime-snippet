@@ -1,0 +1,9 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/badge/license-CC--BY--NC%204.0-${1:orange}.svg${2:?style=flat${3:-square}}
+   :target: http://creativecommons.org/licenses/by-nc/4.0/
+]]></content>
+  <tabTrigger>svg-cc-by-nc</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+"!https://img.shields.io/gem/dv/${1:gem}/stable.svg${2:?style=flat${3:-square}}(Gem)!":${4:https://rubygems.org/gems/${1:gem}}
+]]></content>
+  <tabTrigger>svg-gem-dl-stable</tabTrigger>
+  <scope>text.html.textile</scope>
+</snippet>

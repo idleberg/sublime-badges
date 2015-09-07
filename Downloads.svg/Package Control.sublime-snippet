@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/${1:package}.svg)](${2:hhttps://packagecontrol.io/packages/${1:package}})
+]]></content>
+  <tabTrigger>svg-package-control</tabTrigger>
+  <scope>text.html.markdown</scope>
+</snippet>

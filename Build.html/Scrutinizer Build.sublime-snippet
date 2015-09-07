@@ -3,6 +3,6 @@
   <content><![CDATA[
 <a href="$5"><img src="https://img.shields.io/scrutinizer/build/g/${1:user}/${2:repository}.svg${3:?style=flat${4:-square}}" title="Scrutinizer" alt="Scrutinizer" /></a>
 ]]></content>
-  <tabTrigger>svg-scrutinizer-coverage</tabTrigger>
+  <tabTrigger>svg-scrutinizer-build</tabTrigger>
   <scope>text.html -text.html.markdown</scope>
 </snippet>

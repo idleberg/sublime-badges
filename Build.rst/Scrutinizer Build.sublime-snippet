@@ -4,6 +4,6 @@
 .. image:: https://img.shields.io/scrutinizer/build/g/${1:user}/${2:repository}.svg${3:?style=flat${4:-square}}
    :target: $5
 ]]></content>
-  <tabTrigger>svg-scrutinizer-coverage</tabTrigger>
+  <tabTrigger>svg-scrutinizer-build</tabTrigger>
   <scope>text.restructuredtext</scope>
 </snippet>

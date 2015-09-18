@@ -11,8 +11,8 @@ Easily insert [Shields.io](http://shields.io/) badges into HTML, Markdown, reStr
 ### Package Control
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
-2. Choose *Install Package* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
-3. Select *Badges* and press <kbd>Enter</kbd>
+2. Choose “*Install Package*” from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
+3. Type “*Badges*” and press <kbd>Enter</kbd>
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 

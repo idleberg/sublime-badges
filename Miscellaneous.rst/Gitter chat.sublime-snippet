@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.. image:: https://img.shields.io/badge/chat-Gitter-${4:ff69b4}.svg${5:?style=flat${6:-square}}
+   :target: https://gitter.im/${1:user}${2:/${3:repository}}
+]]></content>
+  <tabTrigger>svg-gitter-chat</tabTrigger>
+  <scope>text.restructuredtext</scope>
+</snippet>

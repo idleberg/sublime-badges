@@ -110,6 +110,7 @@ The snippets are grouped into categories matching those on the [Shields.io](http
 - `svg-gem-user`
 - `svg-gemnasium-deps`
 - `svg-github-issues`
+- `svg-gitter-chat`
 - `svg-gratipay`
 - `svg-hackage-deps`
 - `svg-hex-license`

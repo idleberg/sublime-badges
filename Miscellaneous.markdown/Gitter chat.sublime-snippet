@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-[![Gitter](https://img.shields.io/badge/chat-Gitter-${4:ff69b4}.svg${5:?style=flat${6:-square}})](https://gitter.im/${1:user}${2:/${3:repository}})
+[![Gitter](https://img.shields.io/badge/chat-Gitter-${3:ff69b4}.svg${4:?style=flat${5:-square}})](https://gitter.im/${1:user}/${2:repository})
 ]]></content>
   <tabTrigger>svg-gitter-chat</tabTrigger>
   <scope>text.html.markdown</scope>

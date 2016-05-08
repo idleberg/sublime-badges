@@ -1,9 +1,9 @@
 {
   "name": "sublimetext-gruntfile.js",
   "description": "Lint tasks for Sublime Text packages",
-  "version" : "0.0.4",
-  "author" : "Jan T. Sott",
-  "license" : "MIT",
+  "version": "0.1.0",
+  "author": "Jan T. Sott",
+  "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
@@ -13,12 +13,13 @@
     "url": "https://github.com/idleberg/sublimetext-gruntfile.js/issues"
   },
   "devDependencies": {
-    "grunt":               "^0.4.5",
-    "grunt-cli":           "^0.1.13",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-jsonlint":      "^1.0.4",
-    "grunt-pylint":        "^1.2.0",
-    "grunt-xml-validator": "^1.1.1"
+    "grunt-jsonlint": "^1.0.7",
+    "grunt-pylint": "^1.3.0",
+    "grunt-xml-validator": "^1.1.2",
+    "grunt-yamllint": "^0.2.0"
   },
   "files": [
     ".travis.yml",

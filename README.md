@@ -1,6 +1,7 @@
 # Badges for Sublime Text
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Badges.svg?style=flat-square)](https://packagecontrol.io/packages/Badges)
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-badges.svg?style=flat-square)](https://github.com/idleberg/sublime-badges/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-badges.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-badges)
 

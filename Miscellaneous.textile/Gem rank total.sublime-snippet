@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-"!https://img.shields.io/gem/rt/${1:gem}.svg${2:?style=flat${3:-square}}(Gem)!":$4
+"!https://img.shields.io/gem/rt/${1:gem}.svg${2:?style=flat${3:-square}}(Gem)!":${4:https://rubygems.org/gems/${1:gem}
 ]]></content>
   <tabTrigger>svg-gem-rank-total</tabTrigger>
   <scope>text.html.textile</scope>

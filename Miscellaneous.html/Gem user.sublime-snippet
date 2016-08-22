@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-<a href="$4"><img src="https://img.shields.io/gem/u/${1:gem}.svg${2:?style=flat${3:-square}}" title="Gem" alt="Gem" /></a>
+<a href="${5:https://rubygems.org/profiles/${4:user}}"><img src="https://img.shields.io/gem/u/${1:gem}.svg${2:?style=flat${3:-square}}" title="Gem" alt="Gem" /></a>
 ]]></content>
   <tabTrigger>svg-gem-user</tabTrigger>
   <scope>text.html -text.html.markdown</scope>

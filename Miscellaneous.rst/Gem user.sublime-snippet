@@ -2,7 +2,7 @@
 <snippet>
   <content><![CDATA[
 .. image:: https://img.shields.io/gem/u/${1:gem}.svg${2:?style=flat${3:-square}}
-   :target: $4
+   :target: ${5:https://rubygems.org/profiles/${4:user}}
 ]]></content>
   <tabTrigger>svg-gem-user</tabTrigger>
   <scope>text.restructuredtext</scope>

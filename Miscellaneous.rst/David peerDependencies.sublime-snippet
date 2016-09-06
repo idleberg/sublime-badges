@@ -2,7 +2,7 @@
 <snippet>
   <content><![CDATA[
 .. image:: https://img.shields.io/david/peer/${1:user}/${2:repository}.svg${3:?style=flat${4:-square}}
-   :target: ${5:https://david-dm.org/${1:user}/${2:repository}#info=peerDependencies}
+   :target: ${5:https://david-dm.org/${1:user}/${2:repository}?type=peer}
 ]]></content>
   <tabTrigger>svg-david-peerdeps</tabTrigger>
   <scope>text.restructuredtext</scope>

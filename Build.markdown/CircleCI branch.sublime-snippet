@@ -1,7 +1,7 @@
 <!-- http://github.com/idleberg/sublime-tinkertools -->
 <snippet>
   <content><![CDATA[
-[![CircleCI](https://img.shields.io/circleci/project/${1:user}/${2:repository}/${3:master}.svg${4:?style=flat${5:-square}})]($6)
+[![CircleCI](https://img.shields.io/circleci/project/${1:user}/${2:repository}/${3:master}.svg${4:?style=flat${5:-square}})](https://circleci.com/${6:gh}/${1:user}/${2:repository}/tree/${3:master})
 ]]></content>
   <tabTrigger>svg-circleci-branch</tabTrigger>
   <scope>text.html.markdown</scope>

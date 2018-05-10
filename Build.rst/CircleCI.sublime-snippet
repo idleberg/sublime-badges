@@ -2,7 +2,7 @@
 <snippet>
   <content><![CDATA[
 .. image:: https://img.shields.io/circleci/project/${1:user}/${2:repository}.svg${3:?style=flat${4:-square}}
-   :target: $5
+   :target: https://circleci.com/${5:gh}/${1:user}/${2:repository}
 ]]></content>
   <tabTrigger>svg-circleci</tabTrigger>
   <scope>text.restructuredtext</scope>
